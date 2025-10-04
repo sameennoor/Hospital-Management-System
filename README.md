@@ -5,3 +5,4 @@ Java – Application Development
 Java Swing – Graphical User Interface (GUI)
 Oracle Database – Data storage
 JDBC – Database connectivity
+## Key Functionalities
