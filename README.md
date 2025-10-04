@@ -1,4 +1,4 @@
-Project Overview:
+<img width="373" height="414" alt="image" src="https://github.com/user-attachments/assets/b102cfaa-0792-42d5-8a0d-a182eb76a8d7" />Project Overview:
 The E-Hospital Management System is a digital solution designed to automate and manage hospital operations efficiently. It eliminates manual record-keeping and streamlines key functions like patient management, doctor scheduling, appointment handling, and billing. By moving from paper-based processes to a secure digital platform, hospitals can improve accuracy, reduce delays, and enhance patient care.
 Purpose:
 This project aims to:
@@ -35,3 +35,5 @@ Reduced waiting time through automated appointment scheduling.
 Better coordination among staff and departments.
 Conclusion:
 The E-Hospital Management System is a comprehensive platform that enhances the performance and reliability of hospital operations. It ensures secure data handling, quick access to medical records, and improved patient satisfaction. By integrating automation with healthcare management, this system represents a major step toward a modern, efficient, and technology-driven healthcare environment.
+
+
